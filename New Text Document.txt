@@ -1,0 +1,44 @@
+  .text1 {    padding-left: 16%;}
+
+    .text1 h2 {
+        font-size: 210%;} 
+        .text1 p {
+            font-size: 95%;}
+            .text2 {    padding-left: 16%;}
+            
+                .text2 h2 {
+                    font-size: 210%;} 
+                    .text2 p {
+                        font-size: 95%;}
+                        .text3 {top:1%;}
+                        .text3 h2 {
+                            font-size: 150%;}
+                            .year-2009 {
+                                padding-right: 22%;
+                            }
+                            .year-text ul {
+                                padding-top: 2%;
+                            }
+                            .right-text h3 {
+                                font-size: 100%;
+                            }
+                            .right-text p {
+                                font-size: 60%;
+                            }
+                            .text-top h3 {
+                                font-size: 100%;
+                                line-height: 140%;}
+                                .text-top h5 {
+                                    font-size: 60%;
+                                    padding-bottom: 3%;}
+                                    .text-bottom h3 {
+                                        font-size: 100%;
+                                        line-height: 140%;}
+                                        .text-bottom h5 {
+                                            font-size: 60%;
+                                            padding-bottom: 3%;}
+                                            .journal .photo-text h3 {
+                                                font-size: 100%;}
+                                                .journal .photo-text h5 {
+                                                    font-size: 60%;
+                                                    padding-bottom: 3%;}

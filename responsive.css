@@ -1,0 +1,857 @@
+/* Small Devices */
+
+@media only screen and (max-width: 350px){
+ 
+    .photo-header h2 {
+        
+           font-size: 75%;
+       }
+   
+       .icon-text h2 {
+           
+           font-size: 75%;
+       }
+       .media {
+           padding-bottom: 0%;
+       }
+       .media-heading {
+           font-size: 55%;
+       }
+       .media-text{
+           width: 120%;
+           font-size: 43%;
+       }
+   
+       .photo-text p{
+           font-size: 34%;
+       }
+       .timeline-text h2{
+           font-size: 73%;
+       }
+       .timeline-text h3{
+           font-size: 74%;
+           padding-bottom: 0%;
+       }
+       .timeline-text h4{
+           font-size: 60%;
+       }
+       .timeline-text p{
+           font-size: 33%;
+           padding-bottom: 0%;
+       }
+       .year-2009 h1{
+           font-size: 200%;
+       }
+       .timeline-icon img{
+           width: 75px !important
+       }
+   
+       .year-text ul{
+        padding-top: 27%;
+       }
+       .year-2009 {
+        padding-top: 27%;
+        padding-right: 10%;
+    }
+       .year-text li{
+           font-size: 44%;
+       }
+       .scoial{
+           padding-top: 6%;
+           padding-bottom: 6%;
+       }
+   
+       .scoial-first .first-header h4{
+           font-size: 54%;
+       }
+       .scoial-first .first-text p{
+           font-size: 30%;
+       }
+   
+       .carousel-indicators{
+           margin-bottom: -8%;
+       }
+       .travel{
+           padding-top: 3%;
+           padding-bottom: 10%;
+       }
+       .travel-text h2{
+           font-size: 65%;
+       }
+   
+       .fa-3x {
+           font-size: 1em;
+       }
+   
+       .journal .photo-text{
+           margin-bottom: 5%;
+       }
+       .center .top{
+           margin-bottom: 5%;
+       }
+       .center .bottom{
+           margin-bottom: 5%;
+       }
+   
+       .journal .photo-text h3{
+           font-size: 146%;
+       }
+       .journal .photo-text p {
+           font-size: 100%;
+       }
+       .journal .photo-text h5{
+           font-size: 100%;
+       }
+       .text-top h3{
+           font-size: 146%;
+       }
+       .text-top p{
+           font-size: 100%;
+       }
+       .text-top h5{
+           font-size: 100%;
+       }
+       .text-bottom h3{
+           font-size: 146%;
+       }
+       .text-bottom p{
+           font-size: 100%;
+       }
+       .text-bottom h5{
+           font-size: 100%;
+       }
+       .right-text h3 {
+           font-size: 128%;
+       }
+       .right-text h5 {
+           font-size: 92%;
+       }
+       .right-text p{
+           font-size: 100%;
+       }
+       .right .second {
+        padding-top: 7%;}
+       .right-text h6{
+           font-size: 100%;
+       }
+       .achev h4{
+           font-size: 90%;
+       }
+   
+       .achev p{
+           font-size: 50%;
+       }
+       .form-control{
+           width: 85%;
+           height: 19px;
+       }
+       .footer .left p{
+           font-size: 49%;
+       }
+       .footer .right p{
+           font-size: 54%;
+       }
+   
+
+       
+}
+@media only screen and (min-width: 351px) {
+  
+    .photo-header h2 {
+     
+        font-size: 75%;
+    }
+
+    .icon-text h2 {
+        
+        font-size: 75%;
+    }
+    .media {
+        padding-bottom: 0%;
+    }
+    .media-heading {
+        font-size: 55%;
+    }
+    .media-text{
+        width: 120%;
+        font-size: 43%;
+    }
+
+    .photo-text p{
+        font-size: 25%;
+    }
+    .timeline-text h2{
+        font-size: 73%;
+    }
+    .timeline-text h3{
+        font-size: 74%;
+        padding-bottom: 0%;
+    }
+    .timeline-text h4{
+        font-size: 60%;
+    }
+    .timeline-text p{
+        font-size: 33%;
+        padding-bottom: 0%;
+    }
+    .year-2009 h1{
+        font-size: 200%;
+    }
+    .timeline-icon img{
+        width: 75px !important
+    }
+
+    .year-text ul{
+        padding-top: 17%;
+    }
+    .year-text li{
+        font-size: 46%;
+    }
+    .scoial{
+        padding-top: 6%;
+        padding-bottom: 6%;
+    }
+
+    .scoial-first .first-header h4{
+        font-size: 54%;
+    }
+    .scoial-first .first-text p{
+        font-size: 32%;
+    }
+
+    .carousel-indicators{
+        margin-bottom: -8%;
+    }
+    .travel{
+        padding-top: 3%;
+        padding-bottom: 10%;
+    }
+    .travel-text h2{
+        font-size: 65%;
+    }
+
+    .fa-3x {
+        font-size: 1em;
+    }
+
+    .journal .photo-text{
+        margin-bottom: 5%;
+    }
+    .center .top{
+        margin-bottom: 5%;
+    }
+    .center .bottom{
+        margin-bottom: 5%;
+    }
+
+    .journal .photo-text h3{
+        font-size: 146%;
+    }
+    .journal .photo-text p {
+        font-size: 100%;
+    }
+    .journal .photo-text h5{
+        font-size: 100%;
+    }
+    .text-top h3{
+        font-size: 146%;
+    }
+    .text-top p{
+        font-size: 100%;
+    }
+    .text-top h5{
+        font-size: 100%;
+    }
+    .text-bottom h3{
+        font-size: 146%;
+    }
+    .text-bottom p{
+        font-size: 100%;
+    }
+    .text-bottom h5{
+        font-size: 100%;
+    }
+    .right-text h3 {
+        font-size: 128%;
+    }
+    .right-text h5 {
+        font-size: 92%;
+    }
+    .right-text p{
+        font-size: 103%;
+    }
+    .right-text h6{
+        font-size: 100%;
+    }
+    .achev h4{
+        font-size: 90%;
+    }
+
+    .achev p{
+        font-size: 52%;
+    }
+    .form-control{
+        width: 85%;
+        height: 19px;
+    }
+    .footer .left p{
+        font-size: 49%;
+    }
+    .footer .right p{
+        font-size: 54%;
+    }
+    .overlay-slid1{
+        width: 78%;
+        left: 11%;
+    }
+    .overlay-slid1 .text{
+        padding-top: 60%;
+    }
+    .overlay-slid1 h5{
+        font-size: 54%;
+    }
+    .overlay-slid1 .text p{
+        font-size: 37%;
+    }
+    .overlay-slid1 h4{
+        font-size: 90%;
+    }
+
+
+
+    .overlay-slid2{
+        width: 78%;
+        left: 11%;
+    }
+    .overlay-slid2 .text{
+        padding-top: 60%;
+    }
+    .overlay-slid2 h5{
+        font-size: 54%;
+    }
+    .overlay-slid2 .text p{
+        font-size: 37%;
+    }
+    .overlay-slid2 h4{
+        font-size: 90%;
+    }
+
+
+    .overlay-slid3{
+        width: 78%;
+        left: 11%;
+    }
+    .overlay-slid3 .text{
+        padding-top: 60%;
+    }
+    .overlay-slid3 h5{
+        font-size: 54%;
+    }
+    .overlay-slid3 .text p{
+        font-size: 37%;
+    }
+    .overlay-slid3 h4{
+        font-size: 90%;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 420px){
+
+
+
+    .photo-header h2 {
+        
+           font-size: 75%;
+       }
+   
+       .icon-text h2 {
+           
+           font-size: 75%;
+       }
+       .media {
+           padding-bottom: 0%;
+       }
+       .media-heading {
+           font-size: 55%;
+       }
+       .media-text{
+           width: 120%;
+           font-size: 43%;
+       }
+   
+       .photo-text p{
+           font-size: 25%;
+       }
+       .timeline-text h2{
+           font-size: 73%;
+       }
+       .timeline-text h3{
+           font-size: 74%;
+           padding-bottom: 0%;
+       }
+       .timeline-text h4{
+           font-size: 60%;
+       }
+       .timeline-text p{
+           font-size: 33%;
+           padding-bottom: 0%;
+       }
+       .year-2009 h1{
+           font-size: 200%;
+       }
+       .timeline-icon img{
+           width: 75px !important
+       }
+       .year-2009 {
+        padding-top: 13%;
+        padding-right: 13%;}
+   
+       .year-text ul{
+        padding-top: 1%;
+       }
+       .year-text li{
+           font-size: 46%;
+       }
+       .scoial{
+           padding-top: 6%;
+           padding-bottom: 6%;
+       }
+   
+       .scoial-first .first-header h4{
+           font-size: 60%;
+       }
+       .scoial-first .first-text p{
+           font-size: 32%;
+       }
+   
+       .carousel-indicators{
+           margin-bottom: -8%;
+       }
+       .travel{
+           padding-top: 3%;
+           padding-bottom: 10%;
+       }
+       .travel-text h2{
+           font-size: 65%;
+       }
+   
+       .fa-3x {
+           font-size: 1em;
+       }
+   
+       .journal .photo-text{
+           margin-bottom: 5%;
+       }
+       .center .top{
+           margin-bottom: 5%;
+       }
+       .center .bottom{
+           margin-bottom: 5%;
+       }
+   
+       .journal .photo-text h3{
+           font-size: 146%;
+       }
+       .journal .photo-text p {
+           font-size: 100%;
+       }
+       .journal .photo-text h5{
+           font-size: 100%;
+       }
+       .text-top h3{
+           font-size: 146%;
+       }
+       .text-top p{
+           font-size: 100%;
+       }
+       .text-top h5{
+           font-size: 100%;
+       }
+       .text-bottom h3{
+           font-size: 146%;
+       }
+       .text-bottom p{
+           font-size: 100%;
+       }
+       .text-bottom h5{
+           font-size: 100%;
+       }
+       .right-text h3 {
+           font-size: 128%;
+       }
+       .right-text h5 {
+           font-size: 92%;
+       }
+       .right-text p{
+           font-size: 103%;
+       }
+       .right-text h6{
+           font-size: 100%;
+       }
+       .achev h4{
+           font-size: 90%;
+       }
+   
+       .achev p{
+           font-size: 50%;
+       }
+       .form-control{
+           width: 85%;
+           height: 19px;
+       }
+       .footer .left p{
+           font-size: 49%;
+       }
+       .footer .right p{
+           font-size: 54%;
+       }
+   
+   
+   }
+
+   
+
+
+/* Small Devices And Tablets */
+@media only screen and (min-width: 768px) {
+    
+    .photo-header h2 {
+        
+           font-size: 75%;
+       }
+   
+       .icon-text h2 {
+           
+           font-size: 75%;
+       }
+       .media {
+           padding-bottom: 0%;
+       }
+       .media-heading {
+           font-size: 55%;
+       }
+       .media-text{
+           width: 120%;
+           font-size: 43%;
+       }
+   
+       .photo-text p{
+        font-size: 35%;
+       }
+       .timeline-text h2{
+           font-size: 73%;
+       }
+       .timeline-text h3{
+           font-size: 74%;
+           padding-bottom: 0%;
+       }
+       .timeline-text h4{
+           font-size: 60%;
+       }
+       .timeline-text p{
+           font-size: 33%;
+           padding-bottom: 0%;
+       }
+       .year-2009{
+        padding-top: 9%;
+        padding-right: 26%;
+       }
+       .year-2009 h1{
+           font-size: 200%;
+       }
+       .timeline-icon img{
+           width: 75px !important
+       }
+   
+       .year-text ul{
+        padding-top: 1%;
+       }
+       .year-text li{
+           font-size: 46%;
+       }
+       .scoial{
+           padding-top: 6%;
+           padding-bottom: 6%;
+       }
+   
+       .scoial-first .first-header h4{
+           font-size: 65%;
+       }
+       .scoial-first .first-text p{
+           font-size: 34%;
+       }
+   
+       .carousel-indicators{
+           margin-bottom: -8%;
+       }
+       .travel{
+           padding-top: 3%;
+           padding-bottom: 10%;
+       }
+       .travel-text h2{
+           font-size: 65%;
+       }
+   
+       .fa-3x {
+           font-size: 3em;
+       }
+   
+       .journal .photo-text{
+           margin-bottom: 5%;
+       }
+       .center .top{
+           margin-bottom: 5%;
+       }
+       .center .bottom{
+           margin-bottom: 5%;
+       }
+   
+       .journal .photo-text h3{
+        font-size: 184%;
+       }
+       .journal .photo-text p {
+        font-size: 130%;
+       }
+       .journal .photo-text h5{
+        font-size: 130%;
+       }
+       .text-top h3{
+        font-size: 184%;
+       }
+       .text-top p{
+        font-size: 130%;
+       }
+       .text-top h5{
+        font-size: 130%;
+       }
+       .text-bottom h3{
+        font-size: 184%;
+       }
+       .text-bottom p{
+        font-size: 130%;
+       }
+       .text-bottom h5{
+        font-size: 130%;
+       }
+       .right-text h3 {
+        font-size: 184%;
+       }
+       .right-text h5 {
+        font-size: 130%;
+       }
+       .right-text p{
+        font-size: 130%;
+       }
+       .right-text h6{
+        font-size: 130%;
+       }
+       .achev h4{
+           font-size: 90%;
+       }
+   
+       .achev p{
+           font-size: 52%;
+       }
+       .form-control{
+           width: 85%;
+           height: 19px;
+       }
+       .footer .left p{
+           font-size: 49%;
+       }
+       .footer .right p{
+           font-size: 54%;
+       }
+   
+   
+
+}
+
+/* Medius Devices , Desktop */
+@media only screen and (min-width: 992px) {
+    
+    .text1{
+        padding-left: 19%;
+    }
+    .text1 h2 {
+        font-size: 253%;}
+        .text1 p {
+            font-size: 120%;}
+            .text2{
+                padding-left: 26%
+            }
+            .text2 h2 {
+                font-size: 253%;}
+                .text2 p {
+                    font-size: 120%;}
+                          
+                    .text3 {
+                        top: 3%;
+                    }
+                    .text3 h2 {
+                        font-size: 200%;}
+
+                        .photo-header h2{
+                            font-size: 140%;  
+                        }
+
+                        .photo-text p {
+                            font-size: 45%;
+                        }
+                        .media-text{
+                            font-size: 49%;  
+                        }
+                        .year-text ul {
+               
+                            padding-top:5%;
+                        }
+                        .year-text li {
+                            font-size: 80%;
+                        }
+                        .timeline-text p {
+                            font-size: 63%;}
+
+                            .scoial-first .first-text p{
+                                font-size: 50%; 
+                            }
+
+                            .right-text h3 {
+                                font-size: 83%;}
+                                .right-text p{
+                                    font-size: 47%;
+                                }
+                                .text-bottom h3 {
+                                    font-size: 80%;
+                                    padding-bottom: 2%;
+                                    line-height: 110%;}
+                                    .journal .photo-text p{
+                                        font-size: 47%;
+                                    }
+                                    .text-top h3 {
+                                        font-size: 80%;
+                                        padding-bottom: 2%;
+                                        line-height: 110%;
+                                        line-height: 110%;}
+                                        .journal .photo-text h3 {
+                                            font-size: 80%;}
+                                            .journal .photo-text h5 {
+                                                font-size: 50%;
+                                                padding-bottom: 1%;}
+                                                .text-bottom h5 {
+                                                    font-size: 50%;
+                                                    padding-bottom: 1%;}
+                                                    .text-top h5 {
+                                                        font-size: 50%;
+                                                        padding-bottom: 1%;}
+                                                        .right-text h5 {
+                                                            font-size: 60%}
+                                                            .right-text h6 {
+                                                                font-size: 60%;}
+                                                                .text-top p {
+                                                                    font-size: 55%;}
+                                                                    .text-bottom p {
+                                                                        font-size: 55%;}
+
+}
+
+
+
+
+
+
+
+/* Large Devices, Wide Screen */
+@media only screen and (min-width: 1200px) {
+    .text1 {    padding-left: 16%;}
+
+    .text1 h2 {
+        font-size: 210%;} 
+        .text1 p {
+            font-size: 95%;}
+            .text2 {    padding-left: 16%;}
+            
+                .text2 h2 {
+                    font-size: 210%;} 
+                    .text2 p {
+                        font-size: 95%;}
+                        .text3 {top:1%;}
+                        .text3 h2 {
+                            font-size: 150%;}
+                            .year-2009 {
+                                padding-right: 22%;
+                            }
+                            .year-text ul {
+                                padding-top: 10%;
+                            }
+                            .year-text li{
+                                font-size: 100%;
+                            }
+                            .right-text h3 {
+                                font-size: 100%;
+                            }
+                            .right-text p {
+                                font-size: 60%;
+                            }
+                            .text-top h3 {
+                                font-size: 100%;
+                                line-height: 140%;}
+                                .text-top h5 {
+                                    font-size: 60%;
+                                    padding-bottom: 3%;}
+                                    .text-bottom h3 {
+                                        font-size: 100%;
+                                        line-height: 140%;}
+                                        .text-bottom h5 {
+                                            font-size: 60%;
+                                            padding-bottom: 3%;}
+                                            .journal .photo-text h3 {
+                                                font-size: 100%;}
+                                                .journal .photo-text h5 {
+                                                    font-size: 60%;
+                                                    padding-bottom: 3%;}
+                                                   .timeline-icon img {
+                                                        width: 120px !important;}
+                                                        .timeline-text h2 {
+                                                            font-size: 90%}
+                                                            .timeline-text h3 {
+                                                                padding-bottom: 8%;
+                                                                font-size: 80%;}
+                                                                .timeline-text h4{
+                                                                    font-size: 80%;
+                                                                }
+                                                                .year-2009 h1{
+                                                                    font-size: 300%;
+                                                                }
+                                                                .travel-text h2 {
+                                                                    font-size: 150%;}
+
+                                                                    .scoial-first .first-header h4 {
+                                                                        font-size: 100%;}
+
+                                                                        .scoial-first .first-text p {
+                                                                            font-size: 62%;}
+                                                                            .carousel-indicators {
+                                                                                bottom: 10px;}
+                                                                                .footer .left p {
+                                                                               
+                                                                                    font-size: 75%;}
+                                                                                    .footer .right p {
+                                                                                        font-size: 50%;
+                                                                                    }
+                                                                                    .icon-text h2 {
+                                                                                        font-size: 150%;}
+                                                                                        .media {
+                                                                                            padding-bottom: 3%;}
+                                                                                            
+.media-text {
+    width: 115%;}
+    .media-heading {
+        font-size: 90%;}
+
+        .photo-text p {
+            font-size: 55%;}
+}
